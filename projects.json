@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "title": "Office Solution",
+      "type": "",
+      "description": "A company celebrating their 10th successful years , Requested us to capture  their precious moment which included their own team as well as their valuable customers as well.",
+      "imagePath": "./images/projects/01.jpg"
+    },
+    {
+      "title": "DONESSA ARBAS",
+      "type": "",
+      "description": "A superhuman lady who has helped multiple people to achieve their goals as well as guide them to the right decisions and paths to reach their goals without any trouble.",
+      "imagePath": "./images/projects/02.jpg"
+    },
+
+    {
+      "title": "TimeLess Events",
+      "type": "",
+      "description": "Events management company required a headshot for their company profile which was done and completed by us.",
+      "imagePath": "./images/projects/04.jpg"
+    },
+    {
+      "title": "Colour Vision",
+      "type": "",
+      "description": "Video and Photo shoot requested by an eyewear company with association with Amna Al Qubaisi (Youngest f4 champion & First female sports driver of UAE) , creating an ad campaign for their new launch of lenses.",
+      "imagePath": "./images/projects/05.jpg"
+    },
+    {
+      "title": "Manesh Madhavan",
+      "type": "",
+      "description": "A gym lifestyle personal requested to help them with their social media post and also other campaigns.",
+      "imagePath": "./images/projects/06.jpg"
+    },
+    {
+      "title": "Punnen Thomas",
+      "type": "",
+      "description": "Nutritionist and Gym lifestyle influencer looking to push their social media content using our team to prepare contents.",
+      "imagePath": "./images/projects/07.jpg"
+    },
+    {
+      "title": "Moments & Sparks",
+      "type": "",
+      "description": "A social networking company that organizes events, with the goal of bringing together individuals from diverse backgrounds. Through organized gatherings, they facilitate connections between people who may not have otherwise met. Their events provide a platform for individuals to expand their social circle, foster new relationships, and gain exposure to different perspectives and cultures. As Hub Infinity helps them to create more content and help them in spreading the words via social media contents and ads placing.",
+      "imagePath": "./images/projects/03.jpg"
+    }
+  ]
+}

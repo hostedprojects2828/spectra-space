@@ -1,0 +1,215 @@
+/* Smartphones (portrait) */
+@media only screen and (max-width: 420px) {
+  /* Nav */
+
+  .navigation {
+    width: 16.4rem;
+    height: 4.5rem;
+    left: 20%;
+  }
+
+  .navigation ul li {
+    width: 45px;
+  }
+
+  .navigation ul li a .icon {
+    line-height: 75px;
+    font-size: 1.4rem;
+  }
+
+  .navigation ul li a .text {
+    font-size: 0.85em;
+  }
+
+  .indicator {
+    top: -30%;
+    width: 50px;
+    height: 50px;
+    border-radius: 40%;
+  }
+
+  .navigation ul li:nth-child(1).active ~ .indicator {
+    transform: translateX(calc(45px * 0));
+  }
+
+  .navigation ul li:nth-child(2).active ~ .indicator {
+    transform: translateX(calc(45px * 1));
+  }
+
+  .navigation ul li:nth-child(3).active ~ .indicator {
+    transform: translateX(calc(45px * 2));
+  }
+  .navigation ul li:nth-child(4).active ~ .indicator {
+    transform: translateX(calc(45px * 3));
+  }
+  .navigation ul li:nth-child(5).active ~ .indicator {
+    transform: translateX(calc(45px * 4));
+  }
+
+  .style1 .inner .content .inner_text .inner_image {
+    height: 40vh !important;
+    /* max-width: 55vw !important; */
+    /* margin-left: 120px !important; */
+    /* background-color: red; */
+  }
+
+  .services .definitions .image_wrapper {
+    width: 100vw !important;
+  }
+
+  /* Styles */
+  .inner_text {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .style1 .inner .content .inner_text .inner_image {
+    margin-left: 0rem !important;
+    margin-bottom: 20px;
+    width: 85vw !important;
+  }
+
+  .founders .items_wrapper .item {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    width: 100%;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.259) !important;
+  }
+
+  .founders .items_wrapper .item .name {
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.029) !important;
+    /* width: 100%; */
+  }
+  .name h4 {
+    font-size: 1rem;
+    color: black;
+    letter-spacing: 0.09rem;
+    line-height: 0;
+    /* background-color: blue; */
+  }
+
+  .name h5 {
+    font-size: 1rem;
+    /* display: none; */
+
+    color: rgb(78, 77, 77);
+    letter-spacing: 0.09rem;
+  }
+
+  .founders .item .circle_image {
+    /* border-radius: 50%; */
+    min-height: 15vh !important;
+    min-width: 15vh !important;
+  }
+
+  .founders .items_wrapper .item p {
+    margin: 0.191rem 0 0 0;
+    font-size: 0.867rem;
+  }
+
+  /* banner start*/
+  #one {
+    background-image: none !important;
+    /* background-image: url(''); */
+  }
+  /* banner end*/
+
+  /* why us start*/
+  .why_us .inner_image {
+    margin-bottom: 40px;
+  }
+
+  .pattern_mob {
+    display: block !important;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+  }
+
+  .pattern_mob img {
+    width: 100%;
+  }
+
+  .up {
+    top: -10px;
+  }
+
+  .down {
+    bottom: 0px;
+  }
+  /* Why us end */
+  .services .definitions {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .services .definitions .image_wrapper {
+    margin-left: 0rem !important;
+    margin-bottom: 20px;
+    width: 85vw !important;
+  }
+
+  .services .items_wrapper {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .services .items_wrapper .item {
+    margin-left: 0px !important;
+    margin-bottom: 20px;
+  }
+
+  /* Project Details */
+  .project_details .container .content .image {
+    float: none !important;
+    max-width: 100% !important;
+    max-height: 65vh !important;
+  }
+  .project_details .container .content p {
+    font-size: 0.8991rem;
+  }
+
+  /* ------------------
+Services Ddetails.
+--------------------- */
+
+  .service_details {
+    background-image: none !important;
+    background-repeat: no-repeat;
+    /* filter: blur(4px); */
+  }
+  .service_details .container {
+    grid-template-columns: auto !important;
+    text-align: center !important;
+  }
+
+  .service_details .item {
+    padding: 0px !important;
+    border-right: none !important;
+    margin-right: 0px;
+  }
+}
+
+/* iPads (portrait and landscape)  */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* Styles */
+  .style1 .inner .content .inner_text .inner_image {
+    height: 62vh !important;
+    width: 100vw !important;
+  }
+
+  .services .definitions .image_wrapper {
+    width: 100vw !important;
+  }
+}
+
+/* Desktops and laptops  */
+@media only screen and (min-width: 1224px) {
+  /* Styles */
+}

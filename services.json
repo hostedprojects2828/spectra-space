@@ -1,0 +1,95 @@
+{
+  "accounts": [
+    {
+      "heading": "financial record-keeping",
+      "description": "Our accounting and bookkeeping company provides professional financial record-keeping services to ensure that your financial data is accurate, up-to-date, and organized"
+    },
+    {
+      "heading": "financial statment prepration",
+      "description": "We prepare comprehensive financial statements, including balance sheets, income statements, and cash flow statements, to help you make informed decisions and monitor the financial health of your business."
+    },
+    {
+      "heading": "Acconts payable and receivable managment",
+      "description": "Our company manages your accounts payable and receivable, ensuring that you pay your bills on time and receive timely payments from your customers."
+    },
+    {
+      "heading": "Budgeting and forecasting",
+      "description": "We help you develop realistic budgets and financial forecasts, providing insight into your business's performance and identifying areas for improvement."
+    },
+
+    {
+      "heading": "Tax planning and compliance",
+      "description": "Our tax experts help you plan your tax strategy and ensure compliance with tax laws and regulations, minimizing your tax liability and avoiding penalties."
+    },
+    {
+      "heading": "Financial analysis and reporting",
+      "description": "We provide comprehensive financial analysis and reporting services, helping you to make informed business decisions based on your financial data."
+    },
+    {
+      "heading": "Consulting and advisory services",
+      "description": "Our experienced accounting and bookkeeping professionals offer consulting and advisory services, providing strategic insights into your business and helping you to achieve your financial goals."
+    }
+  ],
+  "eventManagment": [
+    {
+      "heading": "Strategic event planning and design",
+      "description": "Our event management consultancy provides strategic planning and design services to create events that align with your corporate objectives and brand identity."
+    },
+    {
+      "heading": "Vendor procurement and management",
+      "description": "We manage the procurement and management of vendors, ensuring that they meet your corporate standards and expectations."
+    },
+    {
+      "heading": "Financial management",
+      "description": "Our company provides financial management services to help you develop and stick to a realistic budget, maximizing your ROI while minimizing risk."
+    },
+    {
+      "heading": "Project management",
+      "description": "We offer comprehensive project management services to ensure that your event is executed seamlessly, on time, and within budget"
+    },
+
+    {
+      "heading": "Marketing and promotion",
+      "description": "We develop and execute effective marketing and promotional strategies to drive attendance and ensure a strong ROI for your event."
+    },
+    {
+      "heading": "On-site  management",
+      "description": "Our team provides on-site management services to ensure that everything runs smoothly, representing your company in a professional and efficient manner."
+    },
+    {
+      "heading": "Post-event analysis",
+      "description": "We provide post-event analysis to evaluate the success of your event, identify areas for improvement, and make recommendations for future events that align with your corporate objectives."
+    }
+  ],
+  "projectManagment": [
+    {
+      "heading": "Strategic event planning and design",
+      "description": "Our event management consultancy provides strategic planning and design services to create events that align with your corporate objectives and brand identity."
+    },
+    {
+      "heading": "Vendor procurement and management",
+      "description": "We manage the procurement and management of vendors, ensuring that they meet your corporate standards and expectations."
+    },
+    {
+      "heading": "Financial management",
+      "description": "Our company provides financial management services to help you develop and stick to a realistic budget, maximizing your ROI while minimizing risk."
+    },
+    {
+      "heading": "Project management",
+      "description": "We offer comprehensive project management services to ensure that your event is executed seamlessly, on time, and within budget"
+    },
+
+    {
+      "heading": "Marketing and promotion",
+      "description": "We develop and execute effective marketing and promotional strategies to drive attendance and ensure a strong ROI for your event."
+    },
+    {
+      "heading": "On-site  management",
+      "description": "Our team provides on-site management services to ensure that everything runs smoothly, representing your company in a professional and efficient manner."
+    },
+    {
+      "heading": "Post-event analysis",
+      "description": "We provide post-event analysis to evaluate the success of your event, identify areas for improvement, and make recommendations for future events that align with your corporate objectives."
+    }
+  ]
+}
